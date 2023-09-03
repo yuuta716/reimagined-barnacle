@@ -417,7 +417,7 @@ button {
     margin-left: auto;
     position: absolute;
     top: 0;
-    right: 0;
+    right: -25%;
     display: block;
   }
   
